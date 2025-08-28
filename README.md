@@ -5,6 +5,8 @@
 
 Este dashboard interativo oferece uma análise visual sobre dados do Spotify, construído com Streamlit. A aplicação permite explorar tendências musicais, analisar características de áudio de diferentes gêneros e descobrir insights sobre artistas e suas músicas mais populares.
 
+link do projeto: https://appspotifyapp.streamlit.app/
+
 ### 🛠️ Tecnologias Utilizadas
 
 * Python
